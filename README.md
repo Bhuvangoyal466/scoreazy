@@ -69,16 +69,4 @@ scoreazy/
 - **GitHub Pages**: Push to GitHub repository
 - **Surge.sh**: Use command line deployment
 
-## 📞 Contact Information
-
-- **Email**: info@scoreazy.com
-- **Phone**: (+91) 9244 107 100
-- **Address**: 723, Maloo - 1, Plot No 26, Ring Rd, Scheme No 94, Indore - 452010, Madhya Pradesh, India
-
-## 📄 License
-
-© 2025 SCOREAZY EDUTECH PVT LTD. All rights reserved.
-
----
-
-**Built with ❤️ for transforming education through technology**
+**Built with ❤️ by Bhuvan**
